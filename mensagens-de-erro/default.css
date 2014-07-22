@@ -1,0 +1,17 @@
+/* Menssagens de Erro */
+#conversion section div#error-container {
+    background: #e66454;
+    border-color: #df3c28;
+    background-size: 20px 20px;
+    box-shadow: none; 
+}
+#conversion section div#error-container p {
+    color: #fff;
+    font-weight: bold;
+}
+ 
+#conversion section form input.error,
+#conversion section form textarea.error,
+#conversion section form select.error {
+    border: 1px solid #F32121 !important;
+}
