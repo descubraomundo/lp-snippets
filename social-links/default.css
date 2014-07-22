@@ -3,3 +3,7 @@
   line-height: 40px;
   text-align: center;
 }
+/* Linked In */
+#container section div.socialfloating .IN-widget {
+    margin-top: 10px;
+}
