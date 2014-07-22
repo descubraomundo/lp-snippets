@@ -6,6 +6,8 @@ Coleção de Snippets CSS para Landing Pages do RD Station
 
  - Fundo Azul
  - Fundo Laranja
- - Fundo Cinza & Borda Azul
+ - Fundo Cinza com borda e botão azul
+ - Fundo Cinza com barda e botão laranja
+ - Fundo Cinza com borda e botão verde
 
 ##Mensagens de Erro
