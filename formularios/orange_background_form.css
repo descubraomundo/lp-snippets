@@ -1,0 +1,126 @@
+/* Formulário de Conversão */
+#conversion {
+    color: #495b67;
+    background: #fffbd5;
+    border-top: 5px solid #f7761f;
+    border-left: 1px solid #edccb8;
+    border-right: 1px solid #edccb8;
+    border-bottom: 1px solid #edccb8;
+    box-shadow: none !important;
+}
+ 
+#conversion {
+    -webkit-box-shadow: 3px 3px 0px #d3cfcb;
+       -moz-box-shadow: 3px 3px 0px #d3cfcb;
+            box-shadow: 3px 3px 0px #d3cfcb;
+}
+#conversion,
+#conversion header,
+#conversion section {
+    -webkit-border-radius:4px;
+       -moz-border-radius:4px; 
+            border-radius:4px;
+}
+#conversion header {
+    padding-bottom:10px;
+}
+#conversion header h1,
+#conversion header h2,
+#conversion header h3,
+#conversion header h4,
+#conversion header h5,
+#conversion header h6 {
+    color: #495b67;
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-rendering: optimizelegibility;
+}
+ 
+#conversion header h3,
+#conversion header h4,
+#conversion header h5,
+#conversion header h6 {
+    font-weight: 300;
+}
+ 
+#conversion header p {
+    color: #495b67;
+}
+ 
+#conversion section {
+    padding-top: 15px;
+    padding-bottom:10px;
+}
+#conversion header {
+    background: transparent
+}
+#conversion section {
+    background: transparent
+}
+#container > header div.wrapper div.hgroup {
+    padding: 20px 0 10px 0;
+}
+#conversion section form label {
+    color: #666;
+}
+#conversion section form input {
+    opacity: .85;
+    border-radius: 4px;
+    margin: 2px 0;
+    height: 1.75em;
+    color: #111;
+    width: 100%;
+    padding: 5px 5px;
+    border: 1px solid #ffd188;
+    font-size: 1em;
+    font-weight: lighter;
+    box-shadow:none;
+    border: 1px solid #ffd188;
+}
+ 
+#conversion section form input:hover,
+#conversion section form input:active {
+    opacity: 1;
+    border: 1px solid #f37521;
+    box-shadow: none;
+    border-radius: 4px;
+    outline: none;
+}
+ 
+#conversion section div.actions input.call_button {
+    border-radius: 4px;
+    background-color: #f7761f;
+    font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px #bf5812;
+    padding: 10px 25px;
+    font-size: 1.3em;
+    border: none;
+    outline: none;
+    margin-top: .5em;
+    word-wrap: break-word;
+    width: 100%;
+    word-break: normal;
+    white-space: normal;
+    -webkit-box-shadow: 0 5px 0 #994c00,0 7px 2px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0 5px 0 #994c00,0 7px 2px rgba(0,0,0,0.25);
+    box-shadow: 0 5px 0 #994c00,0 7px 2px rgba(0,0,0,0.25);
+    margin: 0;
+}
+#conversion section div.actions input.call_button:hover {
+    background-color: #f93;
+    -webkit-box-shadow: 0 5px 0 #994c00,0 7px 2px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0 5px 0 #994c00,0 7px 2px rgba(0,0,0,0.25);
+    box-shadow: 0 5px 0 #994c00,0 7px 2px rgba(0,0,0,0.25);
+}
+#conversion section div.actions input.call_button:active {
+    margin-top: 4px;
+    margin-bottom: -4px;
+    -webkit-box-shadow: 0 1px 0 #994c00,0 1px 2px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0 1px 0 #994c00,0 1px 2px rgba(0,0,0,0.25);
+    box-shadow: 0 1px 0 #994c00,0 1px 2px rgba(0,0,0,0.25);
+}
+#conversion section form p.notice {
+    color: #666;
+    text-align: center;
+    margin-top: 10px;
+}
