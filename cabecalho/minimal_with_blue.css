@@ -1,0 +1,17 @@
+/* Cabeçalho */
+#container > section {
+    box-shadow: none;
+}
+
+#container > header div.wrapper {
+    display: block;
+}
+#container > header div.wrapper div.hgroup {
+    display: block;
+    padding: 20px 10px;
+    text-align: center;
+    color: #495b67;
+}
+#container > header div.wrapper div.hgroup h2{
+    color: #187dde;
+}
