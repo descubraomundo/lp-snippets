@@ -1,0 +1,50 @@
+/* Cabeçalho */
+#container > header {
+    padding:0;
+}
+#container > header div.wrapper {
+    display: block;
+    width:100%;
+}
+
+#container > header div.wrapper figure,
+#container > header div.wrapper div.figure {
+    width:100%;
+    display:block;
+    background-color:#e5e9ed;
+    margin:0;
+    padding:17px 0 13px;
+    border-bottom:3px solid #40586a;
+    text-align:center;
+}
+
+#container > header div.wrapper figure img,
+#container > header div.wrapper div.figure img {
+    margin:0 auto;
+    width:auto;
+}
+
+#container > header div.wrapper hgroup,
+#container > header div.wrapper div.hgroup {
+    width:100%;
+    display:block;
+    background-color: #506e84;
+    color: #F7F7F7;
+    text-shadow: rgb(54, 84, 106) 1px 1px 1px;
+}
+
+#container > header div.wrapper hgroup h1,
+#container > header div.wrapper div.hgroup h1,
+#container > header div.wrapper hgroup h2,
+#container > header div.wrapper div.hgroup h2 {
+    margin:0 auto;
+    max-width:908px;
+    text-align:center;
+    padding-left:0;
+    padding-right:0;
+}
+#container > section {
+    -webkit-box-shadow: inset 0px 3px 0px #cbd4da;
+       -moz-box-shadow: inset 0px 3px 0px #cbd4da;
+            box-shadow: inset 0px 3px 0px #cbd4da;
+}
