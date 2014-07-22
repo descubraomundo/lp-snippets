@@ -1,5 +1,5 @@
 /*Logo Centralizado */
-#container > header div.wrapper figure,
-#container > header div.wrapper div.figure {
+#container > header div.wrapper figure img,
+#container > header div.wrapper div.figure img {
   margin: 0 auto;
 }
