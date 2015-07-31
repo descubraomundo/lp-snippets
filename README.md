@@ -1,7 +1,7 @@
-rdstation-snippets
+lp-snippets
 ==================
 
-Coleção de Snippets CSS para Landing Pages do RD Station
+Coleção de Snippets CSS para Landing Pages da DMI
 ###Font
 A fonte utilizada é a  **[ Montserrat][1]**
   [1]: http://www.google.com/fonts/specimen/Montserrat
